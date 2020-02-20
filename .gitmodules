@@ -1,0 +1,6 @@
+[submodule "demo-server"]
+	path = demo-server
+	url = git@github.com:SergeiMeza/demo-server.git
+[submodule "demo-client-ios"]
+	path = demo-client-ios
+	url = git@github.com:SergeiMeza/demo-client-ios.git
